@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle
 import matplotlib.pyplot as plt
+from PIL import Image
 
 st.sidebar.title("Navigation")
 page = st.sidebar.selectbox("Choose a page", ["Prediction", "Analysis"])
@@ -43,7 +44,10 @@ if page == "Prediction":
             st.error("Please enter some text first!")
 
         st.feedback()
+
     
+    image = Image.open(r"C:\Users\USER\Pictures\Saved Pictures\collage-customer-experience-concept.jpg")
+    st.image(image, caption="Sentiment Visualization", use_container_width=True)
 
 
     # prediction_page()
