@@ -32,3 +32,4 @@ Data was sourced from **Kaggle**, cleaned, analyzed, modeled, and deployed using
 ```bash
 pip install pandas numpy nltk scikit-learn streamlit
 streamlit run app.py
+http://localhost:8501/
