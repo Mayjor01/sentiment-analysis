@@ -1,4 +1,4 @@
-# Sentiment Analysis Project
+## Sentiment Analysis Project
 
 ## Overview
 This project performs **sentiment analysis** on text data using **Python** and **machine learning**.  
