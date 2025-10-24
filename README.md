@@ -1,4 +1,3 @@
-# sentiment-analysis
 # Sentiment Analysis Project
 
 ## Overview
@@ -19,7 +18,7 @@ Data was sourced from **Kaggle**, cleaned, analyzed, modeled, and deployed using
 
 ---
 
-## ⚙️ Tools & Libraries
+## Tools & Libraries
 - Python, Pandas, NumPy  
 - NLTK, Scikit-learn  
 - Matplotlib, Seaborn  
