@@ -1,9 +1,11 @@
-## Sentiment Analysis Project
+# Sentiment Analysis Project
 
 ## Overview
 This project performs **sentiment analysis** on text data using **Python** and **machine learning**.  
 The goal is to classify text into **Positive**, **Negative**, or **Neutral** sentiments.  
 Data was sourced from **Kaggle**, cleaned, analyzed, modeled, and deployed using **Streamlit**.
+
+![WhatsApp Image 2025-10-24 at 10 24 33_bea7bc6f](https://github.com/user-attachments/assets/62c66a55-ddd8-4a24-bbf7-554c4535f69a)
 
 ---
 
